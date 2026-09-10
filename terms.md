@@ -1,19 +1,19 @@
-# NightNotes Terms of Use
+# Bright Ideas Terms of Use
 
 **Masson Technologies LLC**
 **Effective Date:** September 4, 2026
 
-These Terms of Use ("Terms") are an agreement between you and Masson Technologies LLC ("we," "us," "our") governing your use of the NightNotes app ("the App"). By downloading or using NightNotes, you agree to these Terms. If you do not agree, please do not use the App.
+These Terms of Use ("Terms") are an agreement between you and Masson Technologies LLC ("we," "us," "our") governing your use of the Bright Ideas app ("the App"). By downloading or using Bright Ideas, you agree to these Terms. If you do not agree, please do not use the App.
 
-## 1. What NightNotes Is
+## 1. What Bright Ideas Is
 
-NightNotes is a voice-first idea capture app. You speak, the App transcribes your words on your device, generates a summary and keywords on your device, and saves the result to your device and (optionally) your own iCloud account.
+Bright Ideas is a voice-first idea capture app. You speak, the App transcribes your words on your device, generates a summary and keywords on your device, and saves the result to your device and (optionally) your own iCloud account.
 
-NightNotes has no user accounts and no servers operated by Masson Technologies. We never receive or have access to anything you record. See our Privacy Policy for details.
+Bright Ideas has no user accounts and no servers operated by Masson Technologies. We never receive or have access to anything you record. See our Privacy Policy for details.
 
 ## 2. License
 
-We grant you a personal, limited, non-exclusive, non-transferable license to install and use NightNotes on Apple devices that you own or control, in accordance with these Terms and Apple's App Store terms.
+We grant you a personal, limited, non-exclusive, non-transferable license to install and use Bright Ideas on Apple devices that you own or control, in accordance with these Terms and Apple's App Store terms.
 
 You may not:
 
@@ -25,7 +25,7 @@ You may not:
 
 ## 3. Your Content
 
-Everything you record and store with NightNotes is yours. You own it entirely.
+Everything you record and store with Bright Ideas is yours. You own it entirely.
 
 Because your content lives only on your device and in your iCloud account, we do not use, process, license, or claim any rights to it. The App handles your content locally so that it can transcribe, summarize, search, and sync it — no rights are transferred to us in doing so.
 
@@ -37,7 +37,7 @@ You are responsible for your content, including:
 
 ## 4. Subscriptions
 
-NightNotes offers an optional auto-renewing subscription that unlocks premium features.
+Bright Ideas offers an optional auto-renewing subscription that unlocks premium features.
 
 **Purchase and billing.** Subscriptions are sold through Apple's App Store and charged to your Apple ID. We do not handle payments and never see your payment information. Prices are shown in the App before you subscribe.
 
@@ -61,11 +61,11 @@ Because we hold no copy of your data, deletion is permanent and we cannot recove
 
 ## 6. Apple Services
 
-NightNotes relies on services provided by Apple, including Speech recognition, on-device FoundationModels, iCloud/CloudKit, and the App Store. Your use of those services is governed by Apple's terms and privacy policy. We do not control Apple's services and are not responsible for their availability or behavior.
+Bright Ideas relies on services provided by Apple, including Speech recognition, on-device FoundationModels, iCloud/CloudKit, and the App Store. Your use of those services is governed by Apple's terms and privacy policy. We do not control Apple's services and are not responsible for their availability or behavior.
 
 ## 7. No Warranty
 
-NightNotes is provided "as is" and "as available." To the fullest extent permitted by law, we make no warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, or non-infringement.
+Bright Ideas is provided "as is" and "as available." To the fullest extent permitted by law, we make no warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 In particular, we do not guarantee that:
 
@@ -74,7 +74,7 @@ In particular, we do not guarantee that:
 - iCloud sync will be immediate or uninterrupted
 - The App will be free of errors or work with every future version of iOS
 
-Please keep your own backups of anything important. NightNotes is an idea-capture tool, not a system of record.
+Please keep your own backups of anything important. Bright Ideas is an idea-capture tool, not a system of record.
 
 ## 8. Limitation of Liability
 
@@ -86,11 +86,11 @@ Some jurisdictions do not allow certain limitations of liability, so parts of th
 
 ## 9. Termination
 
-You may stop using NightNotes at any time by deleting it. We may terminate or suspend your license if you materially violate these Terms. Because we hold no account or data for you, termination simply ends your right to use the App; your content remains on your device and in your iCloud account.
+You may stop using Bright Ideas at any time by deleting it. We may terminate or suspend your license if you materially violate these Terms. Because we hold no account or data for you, termination simply ends your right to use the App; your content remains on your device and in your iCloud account.
 
 ## 10. Changes to the App or These Terms
 
-We may update, change, or discontinue features of the App at any time. We may also update these Terms; if we do, we will change the effective date above and, for material changes, notify you within the App. Continuing to use NightNotes after changes take effect means you accept the updated Terms.
+We may update, change, or discontinue features of the App at any time. We may also update these Terms; if we do, we will change the effective date above and, for material changes, notify you within the App. Continuing to use Bright Ideas after changes take effect means you accept the updated Terms.
 
 ## 11. Apple as Third-Party Beneficiary
 
@@ -98,7 +98,7 @@ You acknowledge that these Terms are between you and Masson Technologies, not Ap
 
 ## 12. Governing Law and Disputes
 
-These Terms are governed by the laws of [your state], without regard to conflict-of-law rules. If a dispute arises, please contact us first so we can try to resolve it informally. Any dispute that cannot be resolved informally will be brought in the courts of [your county and state], and you consent to that jurisdiction.
+These Terms are governed by the laws of Illinois, without regard to conflict-of-law rules. If a dispute arises, please contact us first so we can try to resolve it informally. Any dispute that cannot be resolved informally will be brought in the courts of Cook County, Illinois, and you consent to that jurisdiction.
 
 ## 13. General
 
@@ -108,8 +108,8 @@ If any part of these Terms is found unenforceable, the rest remains in effect. O
 
 **Masson Technologies LLC**
 Alexandra Jusino
-Email: [your-email]
-Website: [your-website]
+Email: alex@massontech.com
+Website: massontech.com
 
 ---
 
